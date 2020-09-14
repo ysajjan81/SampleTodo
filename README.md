@@ -33,10 +33,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+I have used different version of android studio. If we use pallete window to drag and drop elements it drops each elements at the beginning of parent layout.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021 ] [Sajjan Kumar]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
